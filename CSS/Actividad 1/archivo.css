@@ -1,0 +1,13 @@
+/*Primera regla de definición: Tipo de letra, forma de letra, color de fondo y posición*/
+#primero{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-style: oblique;
+    background-color: aquamarine;
+    text-align: end;
+}
+
+/*Segunda regla de definición: Posición de texto, texto rayado*/
+#segundo{
+    text-align: center;
+    text-decoration: line-through;
+}
