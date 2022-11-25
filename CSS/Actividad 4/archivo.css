@@ -1,0 +1,23 @@
+p{
+    background-color: gray;
+}
+
+.uno {
+    border: 1px solid;
+    border-color: black;
+    color: blue;
+}
+
+.dos {
+    border: 1px solid;
+    border-color: black;
+    color: blue;
+    background-color: yellow;
+}
+#seis{
+    border: 1px solid;
+    border-color: black;
+    color: blue;
+    font-size: 2EM;
+}
+
