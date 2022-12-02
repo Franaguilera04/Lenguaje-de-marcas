@@ -1,0 +1,8 @@
+ol{
+    text-indent: 10px;
+}
+
+
+ul{
+list-style: square inside url('princesa.jpg');
+}

@@ -1,0 +1,27 @@
+#uno{
+    border: 5px solid;
+    border-color: rgb(255, 0, 0);
+    background-color: darkkhaki;
+    padding: 0px;
+    margin: 0px;
+}
+
+#dos{
+    border: 5px solid;
+    border-color:black;
+    background-color: azure;
+    padding: 5px;
+    margin: 5px;
+}
+
+#tres{
+    border: 5px solid;
+    border-color:blueviolet;
+    background-color: darkseagreen;
+    padding: 20px;
+    margin: 0px;
+}
+
+body{
+    margin: 0px;
+}
