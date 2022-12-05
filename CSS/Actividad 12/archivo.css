@@ -1,0 +1,23 @@
+#enlaces{
+float: left;
+background-color:lightcoral;
+width: 20%;
+padding: 5px;
+margin: 5px;
+line-height: 1.9;
+}
+
+#derecha{
+    background-color: aquamarine;
+    margin: 5px;
+    float: right;
+    padding: 5px;
+    width: 75%;
+}
+
+a{
+    border: 1px solid;
+    border-color: aliceblue;
+    padding: 4px;
+    width: 100%;
+}
