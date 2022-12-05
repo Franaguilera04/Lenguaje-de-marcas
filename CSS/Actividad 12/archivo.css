@@ -1,13 +1,13 @@
-#enlaces{
-float: left;
-background-color:lightcoral;
-width: 20%;
-padding: 5px;
-margin: 5px;
-line-height: 1.9;
+#enlaces {
+    float: left;
+    background-color: lightcoral;
+    width: 20%;
+    padding: 5px;
+    margin: 5px;
+    line-height:2;
 }
 
-#derecha{
+#derecha {
     background-color: aquamarine;
     margin: 5px;
     float: right;
@@ -15,9 +15,24 @@ line-height: 1.9;
     width: 75%;
 }
 
-a{
+#enlaces div {
     border: 1px solid;
     border-color: aliceblue;
-    padding: 4px;
-    width: 100%;
+    width: 95%;
+    margin: 2px;
+}
+
+.foto {
+    float: right;
+    text-align: center;
+}
+
+.foto2 {
+    float: left;
+    text-align: center;
+}
+
+h1 {
+    border: 2px solid;
+    padding: 8px;
 }
