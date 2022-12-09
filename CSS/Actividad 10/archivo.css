@@ -1,0 +1,17 @@
+#uno{
+    width: 50%;
+    text-align: left;
+    initial-letter:initial ;
+    font-style: oblique;
+}
+
+#dos{
+    width: 20%;
+    text-align: right;
+    font-style: inherit;
+}
+
+#tres{
+    width: 30%;
+    text-align: center;
+}
