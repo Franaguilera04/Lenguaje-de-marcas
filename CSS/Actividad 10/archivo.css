@@ -3,15 +3,24 @@
     text-align: left;
     initial-letter:initial ;
     font-style: oblique;
+    font-size: 1.6em;
+    line-height: 1.6;
 }
 
 #dos{
-    width: 20%;
-    text-align: right;
+width: 75%;
+    text-align: center;
+    initial-letter:initial ;
+    font-size: 1.2em;
     font-style: inherit;
+    line-height: 2;
 }
 
 #tres{
-    width: 30%;
-    text-align: center;
+    width: 100%;
+    initial-letter:initial ;
+    font-size: 1em;
+    text-align: right;
+    line-height: 3;
+font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
 }

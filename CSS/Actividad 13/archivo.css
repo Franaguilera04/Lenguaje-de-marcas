@@ -3,6 +3,8 @@ div{
 }
 header{
     background-color: aqua;
+    text-align: center;
+    font-size: x-large;
 }
 a{
     text-decoration: none;
@@ -31,4 +33,9 @@ border: 1px solid;
 section{
     overflow-y: auto;
     height: 400px;
+    background-color: aquamarine;
+}
+
+footer{
+    background-color: darkgrey;
 }
