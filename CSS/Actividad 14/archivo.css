@@ -1,0 +1,24 @@
+header{
+    text-align: center;
+    background-color: rgb(98, 201, 201);
+    font-size: x-large;
+}
+
+
+nav {
+    width: 20%;
+    background-color: thistle;
+    float: left;
+    margin-right: 5px;
+}
+
+li {
+    padding: 5px;
+    border: 1px solid;
+    margin-bottom: 5px;
+    margin-right: 10px;
+}
+
+ul {
+    list-style-type: none
+}
