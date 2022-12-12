@@ -1,9 +1,19 @@
 header{
-    text-align: center;
     background-color: rgb(98, 201, 201);
     font-size: x-large;
 }
+header li{
+    border: 1px solid;
+    background-color: aliceblue;
+    display: inline;
+    padding: 2px;
+    text-align: left;
+    margin-left: 5px;
+}
 
+header h1{
+    text-align: center;
+}
 
 nav {
     width: 20%;
@@ -12,7 +22,7 @@ nav {
     margin-right: 5px;
 }
 
-li {
+nav li {
     padding: 5px;
     border: 1px solid;
     margin-bottom: 5px;
