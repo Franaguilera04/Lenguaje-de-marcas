@@ -1,0 +1,21 @@
+header{
+    background-color: aquamarine;
+}
+
+#triple{
+    background-color: darksalmon;
+    float: left;
+    
+    width: 75%;
+}
+
+#derecha{
+    background-color: darkseagreen;
+    float: right;
+    width: 25%;
+}
+
+footer{
+    background-color: lightsteelblue;
+    width: 100%;
+}

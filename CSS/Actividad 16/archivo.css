@@ -1,0 +1,39 @@
+body{
+    background-color:lightgreen;
+}
+
+header {
+    width: 50%;
+    float: left;
+}
+
+#arriba {
+    width: 50%;
+    float: right;
+}
+
+#izquierda {
+    clear: both;
+    float: left;
+    width: 48%;
+    padding: 10px;
+}
+
+#derecha {
+    float: right;
+    width: 49%;
+    padding: 10px;
+}
+input{
+    color: red;
+}
+footer {
+    width: 99%;
+    margin: 2px;
+    clear: both;
+    padding: 10px;
+}
+
+section {
+    background-color: lightgreen;
+}
