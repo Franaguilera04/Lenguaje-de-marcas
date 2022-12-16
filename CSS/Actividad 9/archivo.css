@@ -16,6 +16,7 @@ header{
 }
 
 footer{
+    clear: both;
     background-color: lightsteelblue;
     width: 100%;
 }
