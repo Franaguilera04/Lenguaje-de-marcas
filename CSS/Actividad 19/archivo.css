@@ -1,0 +1,23 @@
+.todo {
+    background-color: black;
+    color: white;
+    text-align: center;
+    width: 800px;
+    margin: auto;
+}
+#titulo{
+    background-color: black;
+    color: white;
+    text-align: center;
+    width: 800px;
+    font-size: xx-large;
+    margin: auto;
+}
+header{
+    background-color: black;
+    width: 800px;
+    margin: auto;
+}
+body{
+    text-align: center;
+}

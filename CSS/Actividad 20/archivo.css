@@ -1,0 +1,19 @@
+#izquierda {
+    float: left;
+    margin: 10px;
+
+}
+
+#derecha {
+    float: right;
+    margin: 5px;
+    margin-top: 20px;
+    margin-right: 10px;
+}
+
+header {
+    width: 50%;
+    border: 2px solid;
+    height: 100px;
+    background-color: rgb(85, 44, 15);
+}
